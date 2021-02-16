@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "POE_value_search", "POE_value_search\POE_value_search.pyproj", "{BB7B4E4F-2491-4D00-903F-1FC539751A41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB7B4E4F-2491-4D00-903F-1FC539751A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7B4E4F-2491-4D00-903F-1FC539751A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAD280F2-2F9C-460C-A64E-9275D4995225}
+	EndGlobalSection
+EndGlobal
